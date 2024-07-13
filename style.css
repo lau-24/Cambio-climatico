@@ -1,0 +1,59 @@
+
+html{
+  display: flex;
+  align-items:center
+}
+.titulo {font-size: x-large}
+nav{
+  text-align: center;
+  margin: 10px;
+}
+body{
+  display:flex; flex-direction:column; justify-content:center; min-height: 100vh; align-items:center  linear-gradient(indianred, rebeccapurple)
+}
+
+h1{
+color:#104498;
+background-color: #f5f4f5
+}
+
+.imagen1 {padding: 3px; margin: 3px; border: 2px solid black; float: center; width: 300px; height: 200px}
+
+.Laura {padding: 7px; margin: 7px; border: 2px solid black; width:150px; height:250px; float:right}
+
+.humanotierra {height: 300px; width: 380px} 
+.planeta {height: 300px; width: 300px}
+
+.efectoinvernadero {height: 200px; width: 200px}
+.generaciondeenergia {height: 200px; width: 200px}
+.taladebosques {height: 200px; width: 200px}
+.transporte {height: 200px; width: 200px}
+.consumoexcesivo {height: 200px; width: 200px}
+
+.altastemperaturas {height: 150px; width: 150px}
+.tormentasfuertes {height: 150px; width: 150px}
+.sequias {height: 150px; width: 150px}
+.niveldelmar {height: 150px; width: 150px}
+.extincion {height: 150px; width: 150px}
+.faltadealimentos {height: 150px; width: 150px}
+.salud {height: 150px; width: 150px}
+.pobreza {height: 150px; width: 150px}
+
+.reciclar {height: 220px; width:220px}
+.cambio {height: 220px; width: 280px}
+.verduras {height: 220px; width: 220px}
+
+body {
+  color: #759ad7;
+  background-color: #e9e9e2
+}
+
+h2{
+  color:#104498;
+  background-color: #f5f4f5
+}
+
+.block {
+  display:square; height: 5%; border:no-borders; background-color: #759ad7; color:_white; font-size: 17px; text-align:center;
+}
+.submit {background-color: #759ad7; color:_white}
